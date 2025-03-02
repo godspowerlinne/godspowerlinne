@@ -17,7 +17,7 @@ Hey everyone! I'm on an exciting journey into the world of fullstack web develop
 
 **My Tech Journey (So Far):**
 
-* **Languages:** HTML, CSS, JavaScript (ES6+)
+* **Languages:** JavaScript (ES6+)
 * **Front-end:** ReactJS, Tailwind CSS, Bootstrap
 * **Back-end:** NodeJS, Express.js, MongoDB
 * **Tools:** Postman, Vercel, Render
